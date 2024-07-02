@@ -1,0 +1,10 @@
+In this lecture, I learned about the Variables, Constants and Data Types .I mean what is the difference between the variables ,constants and data types.
+Variable:
+Variables in C++ is a name given to a memory location. It is the basic unit of storage in a program. 
+
+The value stored in a variable can be changed during program execution.
+A variable is only a name given to a memory location, all the operations done on the variable effects that memory location.
+In C++, all the variables must be declared before use.
+
+Constant:
+Constants in C++ refer to variables with fixed values that cannot be changed. Once they are defined in the program, they remain constant throughout the execution of the program. They are generally stored as read-only tokens in the code segment of the memory of the program. They can be of any available data type in C++ such as int, char, string, etc.
